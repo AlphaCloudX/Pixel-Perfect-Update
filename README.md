@@ -1,6 +1,6 @@
 
 # Pixel Pefect Java Game
-This is a 2d side scroller game coded in java using java graphics 2d. This was done in a team with David, Ethan and Michael(myself)
+This is a 2d side scroller game coded in java using java graphics 2d. This was done in a team with David, Ethan and Michael(myself) as a final grade 12 project
 
 The game has many different elements that make it a unique game with character.
 
