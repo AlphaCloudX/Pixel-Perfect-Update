@@ -1,0 +1,17 @@
+grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,grass
+grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,grass
+grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,grass
+grass,,,,,,,,,grass,,,,dirt,grass,grass,,,,,,,,,,,,,,grass
+grass,,,,,,,,,dirt,grass,,,,grass,,,,,,,,,,,,,,,grass
+grass,,,,,,,,,,dirt,grass,,,grass,,,,,,,,,,,,,,,grass
+grass,,,,,,,,,,,,,,grass,,,,,,,,,,,,,,,grass
+grass,,,,,,,,,,,,,grass,grass,,,grass,,,,,,,,,,,,grass
+grass,,,,,,,,,,,,,dirt,grass,,,grass,grass,,,,grass,,,,,,,grass
+grass,,,,,,,,,,grass,,,grass,grass,,,grass,grass,grass,,,grass,grass,,,,,,grass
+grass,,,,,,,,,grass,grass,,,grass,grass,,,grass,dirt,grass,,,grass,dirt,grass,grass,,,,grass
+grass,start,,,,,,grass,grass,grass,grass,,,grass,dirt,,,grass,grass,grass,,,grass,grass,grass,grass,grass,,finish,grass
+grass,,,,,,grass,grass,grass,grass,grass,aligator,aligator,grass,grass,aligator,aligator,dirt,grass,grass,aligator,aligator,grass,dirt,grass,dirt,grass,grass,grass,grass
+dirt,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,dirt
+stone,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,stone
+stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone
+stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone,stone

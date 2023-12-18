@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pixel Perfect:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pixel_Perfect_jar</output-path>
+    <root id="archive" name="Pixel Perfect.jar">
+      <element id="module-output" name="Pixel Perfect" />
+    </root>
+  </artifact>
+</component>
